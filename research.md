@@ -9,5 +9,5 @@ My research interests are Algebraic Groups, Geometric Invariant Theory and modul
 ### Publications and Preprints
 
 <ol reversed>
-  <li><em>On the topology of geometric and rational orbits for algebraic group actions over valued fields, II.</em> 16 pages. Communications in Algebra (2022).</a>. </li>
+  <li><em>On the topology of geometric and rational orbits for algebraic group actions over valued fields, II.</em> Joint with Dao Phuong Bac. Communications in Algebra, vol 50 (2022), 812-821.</li>
 </ol>
