@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Hien Vu"
+author: "Hien Vu"
+description: "Vietnam National University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,8 +18,10 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
+  - {file: "index.html", title: "Home"}
+  #- {file: "archive.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
+  - {file: "research.md", title: "Research"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
